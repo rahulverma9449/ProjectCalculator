@@ -1,0 +1,28 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-red {
+  background: red;
+}
+/* It's for header font */
+
+h1 {
+  color: white;
+  background-color: black;
+  border: 2px solid orange;
+}
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
